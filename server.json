@@ -9,20 +9,43 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
     },
     {
-      "id": 2,
-      "name": "Veggie",
+      "editingFood": {
+        "editingFood": {
+          "id": 2,
+          "name": "Veggie",
+          "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
+          "price": "21.90",
+          "available": true,
+          "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+        },
+        "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+        "name": "Veggies",
+        "price": "21.90",
+        "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
+        "id": 2
+      },
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Veggies",
+      "price": "22.90",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "id": 2,
+      "available": true
     },
     {
       "id": 3,
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
-      "available": false,
+      "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "",
+      "name": "Moda francesa",
+      "price": "76.80",
+      "description": "Um belo boeuf com legumes ",
+      "available": true,
+      "id": 16
     }
   ]
 }
